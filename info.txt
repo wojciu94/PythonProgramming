@@ -1,0 +1,12 @@
+funkcja(*args , **kwargs) - zmienna liczba argumentow
+
+funkcja ma sprawdzić czy dane słowo jest palindromem
+
+zdefiniować typy
+
+funkcja przyjmuje string i zamienia wszystkie znaki miejscami pierwszy b<edzie ostatnim a ostantni piewrszym
+
+abc = cba
+
+args - pojemnik na argumenty typu tuple
+kwargs - typ dictionary

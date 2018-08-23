@@ -1,0 +1,10 @@
+[
+  "test_multiplier_class_ut.py::test_multiplierInt_getInt_returnMultiplyOfArguments_ut",
+  "test_multiplier_class_ut.py::test_multiplierInt_getFloat_raiseTypeError_ut",
+  "test_multiplier_class_ut.py::test_multiplierInt_getIntAndFloat_raiseTypeErrors_ut",
+  "test_multiplier_class_ut.py::test_multiplierInt_getString_raiseTypeError_ut",
+  "test_multiplier_class_ut.py::test_multiplierFloat_getFloat_returnMultiplyOfArguments_ut",
+  "test_multiplier_class_ut.py::test_multiplierFloat_getInt_raiseTypeError_ut",
+  "test_multiplier_class_ut.py::test_multiplierFloat_getIntAndFloat_raiseTypeError_ut",
+  "test_multiplier_class_ut.py::test_multiplierFloat_getString_raiseTypeError_ut"
+]

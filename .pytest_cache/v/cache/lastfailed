@@ -1,0 +1,9 @@
+{
+  "test_Vector_ut.py::test_VectorPrivate_Access_setXArgument_XNotChangedOnRequiredValue_ut": true,
+  "test_book_ut.py::test_addTitleAndContentOfChapter_addEmptyTitleAndContentOfChapter_TitleOfChapterIsEmpty_ut": true,
+  "test_book_ut.py::test_getPageContent_correctKeyWrongPage__ut": true,
+  "test_book_ut.py::test_getPageContent_correctKeyWrongPage_raiseKeyErrorExeption_ut": true,
+  "test_classes_ut.py::test_multiply_getString_returnMultiplyOfArguments_ut": true,
+  "test_minimum_of_set_ut.py::test_minimum_of_set_randomSet_minimum_ut": true,
+  "test_reverse_function_ut.py::test_reverseFunction_Int_returnFalse_ut": true
+}
