@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b67498d0-7cdc-4f60-bb14-be03ae63986c" name="Default" comment="Class book">
-      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_classes_ut.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/info.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_bookWithAutor_ut.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_bookWithAutor_ut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plik.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basket.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/potter.py" beforeDir="false" afterPath="$PROJECT_DIR$/potter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_potter_ut.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_potter_ut.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,70 +21,101 @@
     <session id="-1226588236">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.16" value="3" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.16" value="4" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="aaa" value="1" />
-          <entry key="py" value="48" />
+          <entry key="py" value="62" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="48" />
+          <entry key="Python" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="170" />
-          <entry key="py" value="12584" />
+          <entry key="py" value="15570" />
           <entry key="txt" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="249" />
-          <entry key="Python" value="12584" />
+          <entry key="Python" value="15570" />
         </counts>
       </usages-collector>
     </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Python" />
   </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/classes.py">
+            <entry file="file://$PROJECT_DIR$/potter.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="19" selection-start-column="19" selection-end-column="19" />
+                <state relative-caret-position="225">
+                  <caret line="15" selection-start-line="15" selection-end-line="15" />
+                  <folding>
+                    <marker date="1535704122901" expanded="true" signature="13:14" ph="..." />
+                    <marker date="1535704122901" expanded="true" signature="13:19" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Basket.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+                  <folding>
+                    <element signature="e#0#23#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Multiplier_Class.py">
+            <entry file="file://$PROJECT_DIR$/Basket2.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="465">
+                  <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+                  <folding>
+                    <element signature="e#1#24#0" expanded="true" />
+                    <marker date="1537522067548" expanded="true" signature="636:642" ph="..." />
+                    <marker date="1537522067548" expanded="true" signature="667:676" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/plik.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="150">
-                  <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-                  <folding>
-                    <element signature="e#0#39#0" expanded="true" />
-                  </folding>
+                  <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -88,38 +123,14 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test_classes_ut.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret selection-end-line="1" selection-end-column="13" />
-                  <folding>
-                    <element signature="e#0#21#0" expanded="true" />
-                    <marker date="1534967583487" expanded="true" signature="92:93" ph="..." />
-                    <marker date="1534967583487" expanded="true" signature="336:531" ph="..." />
-                    <marker date="1534967583487" expanded="true" signature="596:758" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test_Vector_ut.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-435">
-                  <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/test_multiplier_class_ut.py">
+            <entry file="file://$PROJECT_DIR$/test_potter_ut.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="97">
-                  <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+                <state relative-caret-position="375">
+                  <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
                   <folding>
-                    <element signature="e#0#30#0" expanded="true" />
+                    <element signature="e#0#23#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -201,6 +212,11 @@
         <option value="$PROJECT_DIR$/classes.py" />
         <option value="$PROJECT_DIR$/test_multiplier_class_ut.py" />
         <option value="$PROJECT_DIR$/Multiplier_Class.py" />
+        <option value="$PROJECT_DIR$/potter.py" />
+        <option value="$PROJECT_DIR$/test_potter_ut.py" />
+        <option value="$PROJECT_DIR$/Basket.py" />
+        <option value="$PROJECT_DIR$/plik.py" />
+        <option value="$PROJECT_DIR$/Basket2.py" />
       </list>
     </option>
   </component>
@@ -248,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.test_multiplier_class_ut.py">
+  <component name="RunManager" selected="Python.plik">
     <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,6 +278,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plik" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plik.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,6 +343,21 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in test_potter_ut.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_potter_ut.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_multiplier_class_ut.py" type="tests" factoryName="py.test">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -326,9 +378,13 @@
       <item itemvalue="Python.test_bookWithAutor_ut" />
       <item itemvalue="Python.classes" />
       <item itemvalue="Python tests.pytest in test_classes_ut.py" />
+      <item itemvalue="Python tests.pytest in test_potter_ut.py" />
+      <item itemvalue="Python.plik" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.plik" />
+        <item itemvalue="Python tests.pytest in test_potter_ut.py" />
         <item itemvalue="Python tests.pytest in test_classes_ut.py" />
         <item itemvalue="Python.classes" />
         <item itemvalue="Python.test_bookWithAutor_ut" />
@@ -357,35 +413,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_multiplier_class_ut_test_multiplierInt_getFloat_returnMultiplyOfArguments_ut - 2018.08.22 at 21h 56m 46s.xml">
-      <configuration name="pytest for test_multiplier_class_ut.test_multiplierInt_getFloat_returnMultiplyOfArguments_ut" configurationId="tests" />
+    <history-entry file="pytest_in_test_potter_ut_py - 2018.08.24 at 11h 19m 36s.xml">
+      <configuration name="pytest in test_potter_ut.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.08.22 at 21h 59m 13s.xml">
-      <configuration name="Unnamed" configurationId="tests" />
+    <history-entry file="pytest_in_test_potter_ut_py - 2018.08.24 at 11h 25m 07s.xml">
+      <configuration name="pytest in test_potter_ut.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="test_multiplier_class_ut_py - 2018.08.22 at 21h 59m 33s.xml">
-      <configuration name="test_multiplier_class_ut.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_potter_ut_py - 2018.08.24 at 11h 28m 53s.xml">
+      <configuration name="pytest in test_potter_ut.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="test_multiplier_class_ut_py - 2018.08.22 at 22h 00m 24s.xml">
-      <configuration name="test_multiplier_class_ut.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_potter_ut_py - 2018.08.24 at 11h 46m 43s.xml">
+      <configuration name="pytest in test_potter_ut.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="test_multiplier_class_ut_py - 2018.08.22 at 22h 00m 59s.xml">
-      <configuration name="test_multiplier_class_ut.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_potter_ut_py - 2018.08.24 at 11h 51m 47s.xml">
+      <configuration name="pytest in test_potter_ut.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="test_multiplier_class_ut_py - 2018.08.22 at 22h 01m 12s.xml">
-      <configuration name="test_multiplier_class_ut.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_potter_ut_py - 2018.08.30 at 21h 44m 12s.xml">
+      <configuration name="pytest in test_potter_ut.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="test_multiplier_class_ut_py - 2018.08.22 at 22h 01m 54s.xml">
-      <configuration name="test_multiplier_class_ut.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_potter_ut_py - 2018.08.30 at 21h 44m 42s.xml">
+      <configuration name="pytest in test_potter_ut.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="test_multiplier_class_ut_py - 2018.08.22 at 22h 07m 37s.xml">
-      <configuration name="test_multiplier_class_ut.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_potter_ut_py - 2018.08.30 at 21h 44m 51s.xml">
+      <configuration name="pytest in test_potter_ut.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="test_multiplier_class_ut_py - 2018.08.22 at 22h 29m 15s.xml">
-      <configuration name="test_multiplier_class_ut.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_potter_ut_py - 2018.08.30 at 21h 54m 56s.xml">
+      <configuration name="pytest in test_potter_ut.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="test_multiplier_class_ut_py - 2018.08.22 at 22h 32m 06s.xml">
-      <configuration name="test_multiplier_class_ut.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_potter_ut_py - 2018.08.31 at 10h 52m 18s.xml">
+      <configuration name="pytest in test_potter_ut.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -398,16 +454,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="972" extended-state="6" />
+    <frame x="64" y="-11" width="1857" height="962" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1260917" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49878934" visible="true" weight="0.1260917" />
+      <window_info id="Structure" order="1" sideWeight="0.50121063" side_tool="true" weight="0.1260917" />
+      <window_info id="Favorites" order="2" sideWeight="0.50121063" side_tool="true" weight="0.1260917" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293556" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967249" weight="0.37320575" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49945414" weight="0.398568" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967249" visible="true" weight="0.2881356" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49945414" weight="0.3983051" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49945414" weight="0.3293556" />
@@ -419,6 +475,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1260917" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293556" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4967249" visible="true" weight="0.2882775" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49945414" weight="0.398568" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49945414" weight="0.3293556" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49945414" weight="0.32971016" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49945414" weight="0.32971016" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5032751" side_tool="true" weight="0.2741546" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -445,31 +520,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_VectorPublic_ut.py" />
     <entry file="file://$PROJECT_DIR$/test_VectorProtected_ut.py" />
-    <entry file="file://$PROJECT_DIR$/test_mean_value_of_set_ut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_amount_of_words_in_string_ut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_minimum_of_set_ut.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Vectors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -492,13 +546,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/title1.txt" />
     <entry file="file://$PROJECT_DIR$/aaa" />
-    <entry file="file://$PROJECT_DIR$/test_book_ut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="13" column="33" selection-end-line="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/book.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1335">
@@ -509,29 +556,10 @@
     <entry file="file://$PROJECT_DIR$/cwiczenie1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/class_book.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1534445540079" expanded="true" signature="40:41" ph="..." />
-            <marker date="1534445540079" expanded="true" signature="40:42" ph="..." />
-            <marker date="1534445540079" expanded="true" signature="259:315" ph="..." />
-            <marker date="1534445540079" expanded="true" signature="903:904" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_bookWithAutor_ut.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
           <caret line="131" selection-start-line="131" selection-end-line="131" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1534494387372" expanded="true" signature="3605:3606" ph="..." />
-            <marker date="1534494387372" expanded="true" signature="3978:3979" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -546,19 +574,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <marker date="1534967583487" expanded="true" signature="92:93" ph="..." />
-            <marker date="1534967583487" expanded="true" signature="336:531" ph="..." />
-            <marker date="1534967583487" expanded="true" signature="596:758" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_Vector_ut.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435">
+        <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_multiplier_class_ut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -569,22 +598,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_book_ut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Multiplier_Class.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vectors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plik.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_potter_ut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_multiplier_class_ut.py">
+    <entry file="file://$PROJECT_DIR$/potter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <marker date="1535704122901" expanded="true" signature="13:14" ph="..." />
+            <marker date="1535704122901" expanded="true" signature="13:19" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_amount_of_words_in_string_ut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_mean_value_of_set_ut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basket2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#1#24#0" expanded="true" />
+            <marker date="1537522067548" expanded="true" signature="636:642" ph="..." />
+            <marker date="1537522067548" expanded="true" signature="667:676" ph="..." />
           </folding>
         </state>
       </provider>

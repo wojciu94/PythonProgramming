@@ -5,5 +5,10 @@
   "test_book_ut.py::test_getPageContent_correctKeyWrongPage_raiseKeyErrorExeption_ut": true,
   "test_classes_ut.py::test_multiply_getString_returnMultiplyOfArguments_ut": true,
   "test_minimum_of_set_ut.py::test_minimum_of_set_randomSet_minimum_ut": true,
+  "test_potter_ut.py::test_basket_countTotalPrice_buyFiveDifferentBooks_25PercentOfDiscountut": true,
+  "test_potter_ut.py::test_basket_countTotalPrice_buyThreeDifferentBooks_10PercentOfDiscountut": true,
+  "test_potter_ut.py::test_basket_countTotalPrice_buyTwoDifferentBooks_ut": true,
+  "test_potter_ut.py::test_basket_countTotalPrice_buyTwoThisSameBooks_noDiscount_ut": true,
+  "test_potter_ut.py::test_book_canCreateBookk_noSideEffects_ut": true,
   "test_reverse_function_ut.py::test_reverseFunction_Int_returnFalse_ut": true
 }
