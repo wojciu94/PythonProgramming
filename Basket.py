@@ -1,56 +1,62 @@
+
 from potter import Book
-from typing import List, Tuple, Dict
+from typing import List
 
 
 class Basket:
 
     def __init__(self):
-        self.__books = {}  # type: Dict[Tuple[str, float]]
-        self.__how_many_books = 0
+        self.__books = []   # type: List[Book]
+        self.__list_of_book_sets = []
+        self.__discounts = [1, 0.95, 0.9, 0.8, 0.75]
 
     def addBook(self, book: Book):
+        self.__books.append(book)
 
-        book_in_basket = (book.title, book.price)
+    def sort_collection_of_books(self) -> List[set]:
 
-        if self.__books.get(book_in_basket, None):
-            self.__books[book_in_basket] += 1
-        else:
-            self.__books[book_in_basket] = 1
+        for book in self.__books:
+            is_book_added = False
 
-        self.__how_many_books += 1
+            for book_set in self.__list_of_book_sets:
+                if book not in book_set:
+                    book_set.add(book)
+                    is_book_added = True
+                    break
 
-    def __len__(self) -> int:
-        return len(self.__books)
+            if not is_book_added:
+                self.__list_of_book_sets.append(set([book]))
+
+        return self.__list_of_book_sets
 
     def countTotalPrice(self) -> float:
 
         total_price = 0.0
+        total_price_special = 0.0
+        amount_of_books = len(self.__books)
 
-        if len(self.__books.keys()) == 5:
-            for book_in_basket in self.__books.keys():
-                total_price += book_in_basket[1] * (1.0 - 0.25)
-                self.__books[book_in_basket] -= 1
-                if self.__books[book_in_basket] == 0:
-                    self.__books.pop(book_in_basket)
+        if amount_of_books == 8 and len(self.__list_of_book_sets) == 2:
+            for book in self.__books:
+                total_price_special += book.price
 
-        # for book_in_basket in self.__books.keys():
-        #   total_price += book_in_basket[1] * self.__books[book_in_basket]
+            total_price_special *= self.__discounts[3]
 
-        return total_price
+        for book_set in self.__list_of_book_sets:
 
-    """
-            first_book = self.__books[0]
-            total_price = first_book.price
-            discount_value = 0.0
+            total_price_of_set = 0.0
 
-            for i in range(1, len(self.__books)):
-                next_book = self.__books[i]
+            for book in book_set:
+                total_price_of_set += book.price
 
-                if first_book.title != next_book.title:
-                    discount_value = 0.05
+            amount_of_books_in_set = len(book_set)
 
-                total_price += next_book.price
-                    return total_price * (1.0 - discount_value)
-    """
+            total_price += total_price_of_set * self.__discounts[amount_of_books_in_set - 1]
 
+        if total_price_special != 0.0:
+            return min(total_price, total_price_special)
 
+        else:
+            return total_price
+
+    def __len__(self) -> int:
+        return len(self.__books)
